@@ -1,5 +1,5 @@
-a = 5
-b = 15
+a = 15
+b = 5
 sum_result = a + b
 sub_result = a - b
 print("Sum:", sum_result)
